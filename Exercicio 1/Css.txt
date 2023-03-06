@@ -1,0 +1,18 @@
+border:1px solid red -> borda
+margin: 20px -> espaçamento das beradas
+padding: 20px -> espaçamento das letras dentro da caixa
+font-size:20px -> tamanho da fonte
+width: 20px -> tamanho da borda
+background: pink  -> cor de fundo
+box-sizing: border-bor  -> mantem o tamanho da box
+display: block/inline  -> faz com que elementos respeitem ou n tamanhos definidos
+
+
+
+largura - width
+altura  - height
+conteudo- content
+Bordas  - border
+Preenchimento interno - padding
+Espaço de fora da caixa - margin
+

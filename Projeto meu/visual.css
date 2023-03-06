@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    color: white;
+    text-shadow: 1px 1px black; 
+  }
+  body{
+    background: url(./alakin.png) no-repeat right bottom / 100px fixed , url(./teste\ 2.jpg) no-repeat center / cover fixed;
+  }
+  
+  a{
+    color: rgb(250,50,50);
+    margin:0%;
+  }
+  h1{
+    padding: 0% 8%;
+  }
+  h2{
+    padding: 0% 8%;
+  }
+  h3{
+    padding: 0% 15%}
+  p{
+    padding: 0% 12%;
+  }
+  li{
+    margin:0 17%;
+    padding: 0 2%;
+  }
+  nav{
+    margin:2% 0 0;
+  }
